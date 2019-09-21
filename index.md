@@ -1,8 +1,9 @@
 ---
 title: Ramsey White
-description: cool dude
+description: Frederick, MD
 ---
 
-## Testing
 
-Does this work?  Does a index.md actually override the readme?
+## About Me
+
+Just a basic website for the moment.  Might be something more in the future.
