@@ -1,3 +1,5 @@
-## Welcome to Ramsey's Page
+## Website for Ramsey White
 
-Just a placeholder at the moment, until Ramsey wants to do something more with it.
+### ramseywhite.com
+
+This is a Jekyll install to host ramseywhite.com
