@@ -1,6 +1,7 @@
 ---
 title: Ramsey White
 description: Frederick, MD
+
 ---
 
 
